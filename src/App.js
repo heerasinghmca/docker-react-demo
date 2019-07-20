@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Guys, I am Heera Singh
+          Hello Guys, I am Heera
         </a>
       </header>
     </div>
